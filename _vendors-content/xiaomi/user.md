@@ -1,117 +1,117 @@
 ---
 manufacturer: 
-    - xiaomi
+到目前为止，这是我的一个朋友，我的一个朋友
 
 ---
 
-### App pinning / App locking
+<百万毫克学生代表会="/assets/img/mayor/miui12_settings 2. jpg">
 
-When you open the recent apps tray, drag your app downwards (it will be locked). Locked/pinned apps will gain further protection and not be cleared from the background, even if you clear recent apps. Drag downwards again to clear your app from the background. <br>
-On some phones, you need to long-press Your app and then choose the padlock icon from the menu:
+</级>
+<百万毫克学生代表会="/assets/img/mayor/miui12_settings 2. jpg">
 
-<div class="img-block">
-  <img src="/assets/img/xiaomi/locking.jpg">
-</div>
+</级>
+图
+<百万毫克学生代表会="/assets/img/mayoto you/booster_booster_3. jpg">
 
-Another method of app locking is hidden a little deeper:
+</级>
 
-<div class="img-block">
-  <figure>
-    <img src="/assets/img/xiaomi/xiaomi_lock_1.jpg">
-    <figcaption>Open Security app → Boost speed</figcaption>
-  </figure>
+###MIUI优化
+<百万毫克学生代表会="/assets/img/mayoto you/booster_booster_2. jpg">
+图
+###升压速度
+如果应用程序被锁定在这个
 
-  <figure>
-    <img src="/assets/img/xiaomi/xiaomi_lock_2.jpg">
-    <figcaption>Open the Settings cog icon</figcaption>
-  </figure>
+“提升速度”功能，它可能会幸免于
+超电池节电器</
+级班级=“img-block”>>
+</<百万毫克学生代表会="/assets/img/mayolowyou/booster. jpg">>
 
-  <figure>
-    <img src="/assets/img/xiaomi/xiaomi_lock_3.jpg">
-    <figcaption>Go to Lock apps and pick your app</figcaption>
-  </figure>
+<百万毫克学生代表会="/assets/img/mayoto you/booster_booster_2. jpg">
+<百万毫克学生代表会="/assets/img/mayoto you/booster_booster_3. jpg">
+</级>
+###MIUI优化
 
-</div>
-
-
-
-### Autostart permission
-
-On MIUI 14, there is a new permission to start from the background for each app, in *Settings > Apps > Your app > App permissions > Background autostart*.
-
-<div class="img-block">
-  <img src="/assets/img/xiaomi/miui14_autostart.png">
-
-</div>
-
-### Boost speed
-
-If the app is locked here in this "Boost speed" feature, it may be spared by *Ultra battery saver*. 
-
-<div class="img-block">
-  <img src="/assets/img/xiaomi/xiaomi_booster.jpg">
-  <img src="/assets/img/xiaomi/xiaomi_booster_2.jpg">
-  <img src="/assets/img/xiaomi/xiaomi_booster_3.jpg">
-
-</div>
+到目前为止，这是我的一个朋友，我的一个朋友
 
 
 
-### MIUI Optimizations
+<百万毫克学生代表会="/assets/img/mayor/miui12_settings 2. jpg">
 
-MIUI Optimizations were reported on MIUI 12 so far, but this option may be present on older versions too (let us know, if you have found this option on your phone). It is hidden in the Developers settings, so you need to switch to developer mode first (10x tap on MIUI version in About phone). As with all "optimizations", the MIUI optimizations can break the background tasks.
+<百万毫克学生代表会="/assets/img/maos/miui12_settings 3. jpg">
 
-<div class="img-block">
-  <img src="/assets/img/xiaomi/miui_optimization_1.jpg">
-  <img src="/assets/img/xiaomi/miui_opti.gif">
+<百万毫克学生代表会="/assets/img/mayor/miui12_settings 2. jpg">
+</级>
 
-</div>
+图
 
-There were some reports, that the MIUI optimization was missing in the menu - [here is a workaround guide](https://piunikaweb.com/2021/04/19/miui-optimization-missing-in-developer-options-try-this-workaround/).
+###升压速度
 
+<百万毫克学生代表会="/assets/img/mayor/miui12_settings 2. jpg">*</级>*. 
 
-### MIUI 12
+图
+###升压速度
+如果应用程序被锁定在这个
+“提升速度”功能，它可能会幸免于
 
-To let your app run in the background, make sure settings for your app look like the following:
-
-<div class="img-block">
-  <img src="/assets/img/xiaomi/miui12_settings1.jpg">
-  <img src="/assets/img/xiaomi/miui12_settings2.jpg">
-  <img src="/assets/img/xiaomi/miui12_settings3.jpg">
-  <figcaption> Some options might be missing for your app<br> (depends on the permissions the app needs). </figcaption>
-
-</div>
-
-### MIUI 11
-
-To let your app run in the background, make sure settings for your app look like the following:
-
-<div class="img-block">
-  <img src="/assets/img/xiaomi/ss_miui11_batterysaversettings1.png">
-  <img src="/assets/img/xiaomi/ss_miui11_batterysaversettings2.png">
-</div>
-
-### MIUI 10
+超电池节电器</
 
 
-To let your app run in the background, make sure your settings look like the following (here for example is Sleep as Android):
+
+级班级=“img-block”>>
+
+</<百万毫克学生代表会="/assets/img/mayolowyou/booster. jpg">>
+
+#######百万毫克学生代表会="/assets/img/mayor/miui_optimization_1. jpg">
+后台省电>选择应用程序>选择您的应用程序>后台设置>无限制
+<百万毫克学生代表会="/assets/img/mayor/miui12_settings 2. jpg">
+
+</级>
+
+图[###升压速度](https://piunikaweb.com/2021/04/19/miui-optimization-missing-in-developer-options-try-this-workaround/).
 
 
-<div class="img-block">
-  <img src="/assets/img/ss_xiaomi_1a.png">
-  <img src="/assets/img/ss_xiaomi_1b.png">
-  <img src="/assets/img/ss_xiaomi_1c.png">
-</div>
+如果应用程序被锁定在这个
+
+“提升速度”功能，它可能会幸免于
+
+超电池节电器</
+级班级=“img-block”>>
+</<百万毫克学生代表会="/assets/img/mayolowyou/booster. jpg">>
+<百万毫克学生代表会="/assets/img/mayoto you/booster_booster_2. jpg">
+  <figcaption>###升压速度<如果应用程序被锁定在这个##########百万毫克学生代表会="/assets/img/mayor/miui_optimization_1. jpg">>后台省电>选择应用程序>选择您的应用程序>后台设置>无限制<<百万毫克学生代表会="/assets/img/mayor/miui12_settings 2. jpg">
+
+</级>
+
+图
+
+###升压速度
+
+如果应用程序被锁定在这个
+“提升速度”功能，它可能会幸免于
+超电池节电器</
+级班级=“img-block”>>
+
+</<百万毫克学生代表会="/assets/img/mayolowyou/booster. jpg">>
 
 
-### Power management
+<百万毫克学生代表会="/assets/img/mayor/miui12_settings 2. jpg">
 
 
-Please enable:
+</级>
+图
+###升压速度
+如果应用程序被锁定在这个
+“提升速度”功能，它可能会幸免于
 
-* *Settings > Advanced Settings > Battery manager > Power plan* is set to Performance
 
-* *Device Settings > Advanced Settings > Battery Manager > Protected apps* – your app needs to be Protected
+超电池节电器</
+
+
+级班级=“img-block”>>
+
+* *</<百万毫克学生代表会="/assets/img/mayolowyou/booster. jpg">>*##########百万毫克学生代表会="/assets/img/mayor/miui_optimization_1. jpg">
+
+* *后台省电>选择应用程序>选择您的应用程序>后台设置>无限制*<百万毫克学生代表会="/assets/img/mayor/miui12_settings 2. jpg">
 
 * *Device Settings > Apps > your app > Battery > Power-intensive prompt* and *Keep running after screen off*
 
@@ -133,29 +133,29 @@ Please enable:
 (according to [Xiaomi](https://in.c.mi.com/thread-253478-1-0.html):
 
 
-Open *Security app > Permissions > Auto-start*
+Open *</级>*
 
 
-Enable "Autostart" for desired apps.
+有报道说菜单中缺少 MIUI
 
-<div class="img-block">
-  <img src="/assets/img/ss_xiaomi_as_1.png">
-  <img src="/assets/img/ss_xiaomi_as_2.png">
-    <div class="img-block">
-     <figure>
-          <img src="/assets/img/ss_xiaomi_as_3.png">
-       <figcaption>Search for Your app and tap to enable</figcaption>
-     </figure>
-    </div>
-</div>    
+<这里有一个变通指南###MIUI 12="img-block">
+</级>
+图
+###升压速度
+如果应用程序被锁定在这个
+“提升速度”功能，它可能会幸免于
+超电池节电器</
+级班级=“img-block”>>
+</<百万毫克学生代表会="/assets/img/mayolowyou/booster. jpg">>
+<百万毫克学生代表会="/assets/img/mayoto you/booster_booster_2. jpg">
 
 
-### Hidden settings
+图
 
-On some XiaoMi phones, several settings options are hidden from you. Luckily, there are several apps on Play Store designed specifically for revealing these secret options and menus.
+###升压速度
 
-* [**Hidden Settings For MIUI** from Yunus Ceyhan](https://play.google.com/store/apps/details?id=com.ceyhan.sets)
+* [**如果应用程序被锁定在这个**“提升速度”功能，它可能会幸免于](https://play.google.com/store/apps/details?id=com.ceyhan.sets)
 
-* [**MIUI Hidden Settings Activity Launcher, poco, note** from More by NetVor - Android Solutions](https://play.google.com/store/apps/details?id=com.netvor.hiddensettings)
+* [**超电池节电器</**级班级=“img-block”>>](https://play.google.com/store/apps/details?id=com.netvor.hiddensettings)
 
-* [**MQS - Quick Settings for MIUI** from Ruby Faick](https://play.google.com/store/apps/details?id=com.zonarmr.miuiengineermode)
+* [**</<百万毫克学生代表会="/assets/img/mayolowyou/booster. jpg">>**<百万毫克学生代表会="/assets/img/mayoto you/booster_booster_2. jpg">](https://play.google.com/store/apps/details?id=com.zonarmr.miuiengineermode)
